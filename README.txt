@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/EvwnIm2.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,9 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Could not figure out how to use NSUserDefaults and therefore, could not complete my settings page.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Scott Mullen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
